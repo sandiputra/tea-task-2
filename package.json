@@ -1,5 +1,5 @@
 {
-  "name": "tea-task-2",
+  "name": "tea-task-2.git",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -26,6 +26,13 @@
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "npx create-next-app@latest",
-  "author": "",
-  "license": "ISC"
+  "author": "tea-task-2.git",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "tea-task-2.git"
+  },
+  "keywords": [
+    "tea-task-2.git"
+  ]
 }
